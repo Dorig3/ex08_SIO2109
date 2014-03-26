@@ -1,0 +1,31 @@
+ex08
+
+5/20
+
+(-1)
+void main (){
+  ex08_1;
+  ex08_2;
+}
+
+->
+
+void main (){
+  ex08_1();
+  ex08_2();
+}
+
+(-1) 8.1
+undefined class Random
+
+(-1) 8.2
+rien n'est exécuté
+
+(-4) 8.3
+pas fait
+
+(-4) 8.4
+pas fait
+
+(-4) 8.5
+pas fait
